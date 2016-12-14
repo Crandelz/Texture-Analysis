@@ -8,7 +8,7 @@ It is base on previus plugin version of Kota Miura, Toby C. Cornish, and Julio E
 Features implemented:
   * Correlation
   * Contrast
-  * Energy
+  * Energy
   * Entropy
   * Homogeneity
   * Angular Second Moment
